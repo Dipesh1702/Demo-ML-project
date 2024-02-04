@@ -1,0 +1,5 @@
+outs:
+- md5: 956a19245d8fdbc03ad985b9f22a6831
+  size: 57068
+  hash: md5
+  path: rav.csv
